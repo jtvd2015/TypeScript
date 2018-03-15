@@ -61,7 +61,9 @@
     "ts/user.ts",
     "ts/friends.ts",
     "ts/vendor.ts",
-    "ts/vendor-class.ts",
-    "ts/foo-bar.ts"
+    "ts/vendor.class.ts",
+    "ts/foo-bar.ts",
+    "ts/frames.class.ts", "ts/game.class.ts",
+    "ts/account.class.ts", "ts/banking.class.ts", "ts/savings.class.ts"
     ]
 }
